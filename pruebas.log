@@ -1,0 +1,141 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.6.26)  5 NOV 2024 12:47
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"d:/Metodos Numericos/TIF_MET_NUM/pruebas.tex"
+(d:/Metodos Numericos/TIF_MET_NUM/pruebas.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
+(C:\Users\darwi\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(C:\Users\darwi\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count187
+\c@section=\count188
+\c@subsection=\count189
+\c@subsubsection=\count190
+\c@paragraph=\count191
+\c@subparagraph=\count192
+\c@figure=\count193
+\c@table=\count194
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+) (C:\Users\darwi\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty (C:\Users\darwi\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+\lst@mode=\count195
+\lst@gtempboxa=\box51
+\lst@token=\toks18
+\lst@length=\count196
+\lst@currlwidth=\dimen141
+\lst@column=\count197
+\lst@pos=\count198
+\lst@lostspace=\dimen142
+\lst@width=\dimen143
+\lst@newlines=\count199
+\lst@lineno=\count266
+\lst@maxwidth=\dimen144
+ (C:\Users\darwi\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2023/02/27 1.9 (Carsten Heinz)
+\c@lstnumber=\count267
+\lst@skipnumbers=\count268
+\lst@framebox=\box52
+) (C:\Users\darwi\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
+File: listings.cfg 2023/02/27 1.9 listings configuration
+))
+Package: listings 2023/02/27 1.9 (Carsten Heinz)
+ (C:\Users\darwi\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
+ (C:\Users\darwi\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+ (C:\Users\darwi\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+) (C:\Users\darwi\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1350.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1354.
+Package xcolor Info: Model `RGB' extended on input line 1366.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1368.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
+) (C:\Users\darwi\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
+File: lstlang1.sty 2023/02/27 1.9 listings language file
+) (C:\Users\darwi\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count269
+\l__pdf_internal_box=\box53
+) (pruebas.aux)
+\openout1 = `pruebas.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+\c@lstlisting=\count270
+ (C:\Users\darwi\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count271
+\scratchdimen=\dimen145
+\scratchbox=\box54
+\nofMPsegments=\count272
+\nofMParguments=\count273
+\everyMPshowfont=\toks19
+\MPscratchCnt=\count274
+\MPscratchDim=\dimen146
+\MPnumerator=\count275
+\makeMPintoPDFobject=\count276
+\everyMPtoPDFconversion=\toks20
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <17.28> on input line 33.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 33.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 33.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 33.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 37.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 37.
+ [1
+
+{C:/Users/darwi/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (pruebas.aux)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 3261 strings out of 474485
+ 46920 string characters out of 5743734
+ 2015542 words of memory out of 5000000
+ 25580 multiletter control sequences out of 15000+600000
+ 562659 words of font info for 52 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 42i,6n,51p,418b,1285s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/darwi/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/darwi/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/darwi/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/darwi/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/darwi/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/darwi/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
+Output written on pruebas.pdf (1 page, 75582 bytes).
+PDF statistics:
+ 36 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
